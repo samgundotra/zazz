@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Understanding your score",
+        "children": [
+            {
+                "text": "A score of 100% means this color is absolutely PERFECT for your skin. Generally, scores between 60-100% are considered a good shade for you so shoot for these shades."
+            }
+        ]
+    },
+	{
+		"text": "Tips",
+        "children": [
+            {
+                "text": "We highly recommend using two photos that were taken in the same lighting for the best results. We also recommend taking pictures where your skin or the item of clothing takes up the majority of the frame. This ensures that the color we match with is as accurate as possible! "
+            }
+        ]
+	},
+	{
+		"text": "About this app",
+        "children": [
+            {
+                "text": "This app was made by a rockstar developer who just wanted to quickly quantify which colors suit her best."
+            }
+        ]
+	}
+]
